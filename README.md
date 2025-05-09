@@ -1,17 +1,13 @@
-## 📄 Uploaded PDF Files
+## 📄 Downloadable PDF Files
 
-**Uploader:** `edward1986`  
-**Commit:** [`f37bccb`](https://github.com/your-repo/commit/f37bccb)  
-**Description:** Add files via upload
-
-| File Name | Link |
-|-----------|------|
-| PC.pdf | [View PDF](./PC.pdf) |
-| PropertySticker.pdf | [View PDF](./PropertySticker.pdf) |
-| RPCI.pdf | [View PDF](./RPCI.pdf) |
-| RPCPPE.pdf | [View PDF](./RPCPPE.pdf) |
-| RPCSP.pdf | [View PDF](./RPCSP.pdf) |
-| RSMI.pdf | [View PDF](./RSMI.pdf) |
-| RSPI.pdf | [View PDF](./RSPI.pdf) |
-| STOCK-CARD-TEMPLATE-1.pdf | [View PDF](./STOCK-CARD-TEMPLATE-1.pdf) |
-| STOCK-CARD-TEMPLATE.pdf | [View PDF](./STOCK-CARD-TEMPLATE.pdf) |
+| File Name | Direct Download |
+|-----------|-----------------|
+| PC.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/PC.pdf) |
+| PropertySticker.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/PropertySticker.pdf) |
+| RPCI.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/RPCI.pdf) |
+| RPCPPE.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/RPCPPE.pdf) |
+| RPCSP.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/RPCSP.pdf) |
+| RSMI.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/RSMI.pdf) |
+| RSPI.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/RSPI.pdf) |
+| STOCK-CARD-TEMPLATE-1.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/STOCK-CARD-TEMPLATE-1.pdf) |
+| STOCK-CARD-TEMPLATE.pdf | [Download](https://raw.githubusercontent.com/edward1986/annex-a8/main/STOCK-CARD-TEMPLATE.pdf) |
